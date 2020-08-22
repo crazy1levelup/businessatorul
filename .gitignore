@@ -1,0 +1,5 @@
+/config/dev.env.mock
+/node_modules
+/businessatorul/node_modules
+/uploads
+/ngrok.exe
